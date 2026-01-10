@@ -35,9 +35,12 @@ Data Analysis: SQL
 
 Data Visualization: Power BI
 
+Data Claning and Visualization : Jupyter Notebook
+
 Dataset: Super Store Sales Dataset
 
 Version Control: Git & GitHub
+
 
 #### 📊 Dashboard Preview
 <p align="center"> <img src="https://github.com/tushar01-abc/Super-Store-Sales-Data-Analysis/blob/main/Super%20store%20sales%20dashboard.png" width="1000"> </p> <p align="center"> <b>Super Store Sales Performance Dashboard – Power BI</b> </p>
